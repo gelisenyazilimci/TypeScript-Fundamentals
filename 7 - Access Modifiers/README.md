@@ -119,7 +119,7 @@ console.log(book.getTitle()); // TypeScript Handbook
 // book.title = "Another Book"; // HATA: 'title' özelliği readonly olduğu için değiştirilemez
 ```
 
-## 5. 5. Access Modifiers ile Constructor Parametreleri
+## 5. Access Modifiers ile Constructor Parametreleri
 
 TypeScript, constructor parametrelerinde erişim belirleyicilerini doğrudan tanımlamayı destekler. Bu yöntem, daha az kodla aynı işlevselliği sağlar.
 
